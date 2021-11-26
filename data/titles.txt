@@ -1,0 +1,9 @@
+Dracula,1897
+Frankenstein,1818
+Jane Eyre,1847
+Moby Dick,1851
+Sense and Sensibility,1811
+The Adventures of Sherlock Holmes,1892
+The Invisible Man,1897
+The Time Machine,1895
+Wuthering Heights,1847
